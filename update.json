@@ -1,0 +1,10 @@
+{
+    "apps":[
+        {
+            "name": "PasswordGenerator",
+            "version": "1.0.0",
+            "downloadUrl": "https://www.google.co.uk",
+            "notes": "Initial release"
+        }
+    ]
+}
